@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnaK024
+- 👋 Hi, I’m Krishna Kant
 - 👀 I’m very much interested in programming 
 - 🌱 I’m currently learning C Programming Language
 <!--- - 💞️ I’m looking to collaborate on ... --->
