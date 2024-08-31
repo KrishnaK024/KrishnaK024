@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna Kant
 - 👀 I’m very much interested in Software development
-- 
+
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me:
   - 📧 krishna24k2000@gmail.com
